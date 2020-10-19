@@ -1,0 +1,1 @@
+{"rustc":10057567799899506843,"features":"[\"std\"]","target":1431043554867298142,"profile":18074012566298724745,"path":366633898677925414,"deps":[[2330583982131338277,"wee_alloc",false,6952598045425583400]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/ink_alloc-750a6a311a799c19/dep-lib-ink_alloc"}}],"rustflags":[],"metadata":7039540692772249456,"config":0}

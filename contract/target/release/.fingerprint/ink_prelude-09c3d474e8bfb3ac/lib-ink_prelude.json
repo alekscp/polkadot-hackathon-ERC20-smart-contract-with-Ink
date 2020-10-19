@@ -1,0 +1,1 @@
+{"rustc":12301797070330917975,"features":"[\"std\"]","target":12395526281230794736,"profile":4339006351771724982,"path":9614832496788540059,"deps":[[459707256310480844,"cfg_if",false,9242193165828464783]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/ink_prelude-09c3d474e8bfb3ac/dep-lib-ink_prelude"}}],"rustflags":[],"metadata":5420342308951277839,"config":0}

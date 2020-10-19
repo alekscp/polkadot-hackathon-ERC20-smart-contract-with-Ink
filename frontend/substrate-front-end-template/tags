@@ -1,0 +1,152 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AccountAddress	src/App.js	/^        <AccountSelector setAccountAddress={setAccountAddress} \/>$/;"	c
+AccountSelector	src/AccountSelector.js	/^export default function AccountSelector (props) {$/;"	f
+Accounts	src/substrate-lib/SubstrateContext.js	/^const loadAccounts = (state, dispatch) => {$/;"	c
+ApiType	src/Interactor.js	/^  const getApiType = (api, interxType) => {$/;"	c
+App	src/App.js	/^export default function App () {$/;"	f
+Balance	src/BalancesERC20.js	/^  const displayBalance = (balance) => {$/;"	c
+Balance	src/TransferERC20.js	/^  const updateBalance = () => {$/;"	c
+BalanceAnnotation	src/AccountSelector.js	/^function BalanceAnnotation (props) {$/;"	f
+Balances	src/BalancesERC20.js	/^  const updateBalances = async () => {$/;"	c
+BlockNumber	src/BlockNumber.js	/^export default function BlockNumber (props) {$/;"	f
+CONTRACT_ADDRESS	src/utils/apiContract.js	/^const CONTRACT_ADDRESS = '5HoRXu5vGUjQARwNCD8Gpf8acxSgs1AWX1WBWTfFTU7GhsuJ';$/;"	n
+Callables	src/Interactor.js	/^  const updateCallables = () => {$/;"	c
+Change	src/AccountSelector.js	/^            onChange={(_, dropdown) => {$/;"	c
+Change	src/Interactor.js	/^              onChange={onPalletCallableParamChange}$/;"	c
+Change	src/Interactor.js	/^            onChange={onInterxTypeChange}$/;"	c
+Change	src/Interactor.js	/^            onChange={onPalletCallableParamChange}$/;"	c
+Change	src/TemplateModule.js	/^            onChange={(_, { value }) => setFormValue(value)}$/;"	c
+Change	src/Transfer.js	/^            onChange={onChange}$/;"	c
+Change	src/Transfer.js	/^  const onChange = (_, data) =>$/;"	c
+Change	src/TransferERC20.js	/^            onChange={onChange}$/;"	c
+Change	src/TransferERC20.js	/^  const onChange = (_, data) => setFormState(prev => ({ ...prev, [data.state]: data.value }));$/;"	c
+Change	src/Upgrade.js	/^            onChange={e => handleFileChosen(e.target.files[0])}$/;"	c
+Click	src/Events.js	/^        onClick={ _ => setEventFeed([]) }$/;"	c
+Click	src/TransferERC20.js	/^          <Button onClick={transfer}>Transfer!<\/Button>$/;"	c
+Click	src/substrate-lib/components/TxButton.js	/^      onClick={transaction}$/;"	c
+Constant	src/substrate-lib/components/TxButton.js	/^  const isConstant = () => type === 'CONSTANT';$/;"	c
+Conversion	src/substrate-lib/utils.js	/^  paramConversion: {$/;"	c
+Crypto	src/substrate-lib/components/DeveloperConsole.js	/^  window.utilCrypto = require('@polkadot\/util-crypto');$/;"	c
+DeveloperConsole	src/substrate-lib/components/DeveloperConsole.js	/^export default function DeveloperConsole (props) {$/;"	f
+Env	src/config/index.js	/^const configEnv = require(`.\/${process.env.NODE_ENV}.json`);$/;"	c
+Events	src/Events.js	/^    const allEvents = async () => {$/;"	c
+Events	src/Events.js	/^export default function Events (props) {$/;"	f
+FILTERED_EVENTS	src/Events.js	/^const FILTERED_EVENTS = [$/;"	n
+Failed	src/substrate-lib/components/TxButton.js	/^    setStatus(`😞 Transaction Failed: ${err.toString()}`);$/;"	c
+Field	src/Interactor.js	/^        const { ind, paramField: { type } } = state;$/;"	c
+FormState	src/Interactor.js	/^  const initFormState = {$/;"	c
+FromAcct	src/substrate-lib/components/TxButton.js	/^  const getFromAcct = async () => {$/;"	c
+INIT_STATE	src/substrate-lib/SubstrateContext.js	/^const INIT_STATE = {$/;"	c
+INIT_STATE	src/substrate-lib/SubstrateContext.js	/^const INIT_STATE = {$/;"	n
+Info	src/NodeInfo.js	/^    const getInfo = async () => {$/;"	c
+Interactor	src/Interactor.js	/^export default function Interactor (props) {$/;"	f
+InteractorSubmit	src/Interactor.js	/^function InteractorSubmit (props) {$/;"	f
+InterxTypeChange	src/Interactor.js	/^  const onInterxTypeChange = (ev, data) => {$/;"	c
+IsOptional	src/Interactor.js	/^const argIsOptional = (arg) =>$/;"	c
+LoadAccounts	src/substrate-lib/SubstrateContext.js	/^  const asyncLoadAccounts = async () => {$/;"	c
+Main	src/AccountSelector.js	/^function Main (props) {$/;"	f
+Main	src/App.js	/^function Main () {$/;"	f
+Main	src/Balances.js	/^export default function Main (props) {$/;"	f
+Main	src/BalancesERC20.js	/^export default function Main (props) {$/;"	f
+Main	src/BlockNumber.js	/^function Main (props) {$/;"	f
+Main	src/Events.js	/^function Main (props) {$/;"	f
+Main	src/Interactor.js	/^function Main (props) {$/;"	f
+Main	src/Metadata.js	/^function Main (props) {$/;"	f
+Main	src/NodeInfo.js	/^function Main (props) {$/;"	f
+Main	src/TemplateModule.js	/^function Main (props) {$/;"	f
+Main	src/Transfer.js	/^export default function Main (props) {$/;"	f
+Main	src/TransferERC20.js	/^function Main (props) {$/;"	f
+Main	src/Upgrade.js	/^export default function Main (props) {$/;"	f
+Metadata	src/Metadata.js	/^    const getMetadata = async () => {$/;"	c
+Metadata	src/Metadata.js	/^export default function Metadata (props) {$/;"	f
+NodeInfo	src/NodeInfo.js	/^export default function NodeInfo (props) {$/;"	f
+Of	src/BalancesERC20.js	/^  const balanceOf = async (who) => {$/;"	c
+OptionalMsg	src/Interactor.js	/^  const getOptionalMsg = (interxType) =>$/;"	c
+Pair	src/App.js	/^            <TransferERC20 accountPair={accountPair} \/>$/;"	c
+Pair	src/Interactor.js	/^            accountPair={accountPair}$/;"	c
+Pair	src/TemplateModule.js	/^            accountPair={accountPair}$/;"	c
+Pair	src/Transfer.js	/^            accountPair={accountPair}$/;"	c
+Pair	src/Upgrade.js	/^            accountPair={accountPair}$/;"	c
+PalletCallableParamChange	src/Interactor.js	/^  const onPalletCallableParamChange = (_, data) => {$/;"	c
+PalletRPCs	src/Interactor.js	/^  const updatePalletRPCs = () => {$/;"	c
+ParamFields	src/Interactor.js	/^  const updateParamFields = () => {$/;"	c
+Params	src/substrate-lib/components/TxButton.js	/^  const transformParams = (paramFields, inputParams, opts = { emptyAsNull: true }) => {$/;"	c
+ParamsFilled	src/substrate-lib/components/TxButton.js	/^  const allParamsFilled = () => {$/;"	c
+Query	src/substrate-lib/components/TxButton.js	/^  const isQuery = () => type === 'QUERY';$/;"	c
+Ref	src/App.js	/^  const contextRef = createRef();$/;"	c
+ResHandler	src/substrate-lib/components/TxButton.js	/^  const txResHandler = ({ status }) =>$/;"	c
+Rpc	src/substrate-lib/components/TxButton.js	/^  const isRpc = () => type === 'RPC';$/;"	c
+Selected	src/AccountSelector.js	/^          <BalanceAnnotation accountSelected={accountSelected} \/>$/;"	c
+Signed	src/substrate-lib/components/TxButton.js	/^  const isSigned = () => type === 'SIGNED-TX';$/;"	c
+State	src/substrate-lib/SubstrateContext.js	/^  const initState = { ...INIT_STATE };$/;"	c
+Status	src/Interactor.js	/^            setStatus={setStatus}$/;"	c
+Status	src/TemplateModule.js	/^            setStatus={setStatus}$/;"	c
+Status	src/Transfer.js	/^            setStatus={setStatus}$/;"	c
+Status	src/Upgrade.js	/^            setStatus={setStatus}$/;"	c
+Substrate	src/substrate-lib/SubstrateContext.js	/^const useSubstrate = () => ({ ...useContext(SubstrateContext) });$/;"	c
+SubstrateContextProvider	src/substrate-lib/SubstrateContext.js	/^const SubstrateContextProvider = (props) => {$/;"	c
+Sudo	src/substrate-lib/components/TxButton.js	/^  const isSudo = () => type === 'SUDO-TX';$/;"	c
+SudoKey	src/substrate-lib/components/TxButton.js	/^  const loadSudoKey = () => {$/;"	c
+SudoTx	src/substrate-lib/components/TxButton.js	/^  const uncheckedSudoTx = async () => {$/;"	c
+TemplateModule	src/TemplateModule.js	/^export default function TemplateModule (props) {$/;"	f
+TransferERC20	src/TransferERC20.js	/^export default function TransferERC20 (props) {$/;"	f
+Tx	src/substrate-lib/components/TxButton.js	/^  const signedTx = async () => {$/;"	c
+Tx	src/substrate-lib/components/TxButton.js	/^  const sudoTx = async () => {$/;"	c
+Tx	src/substrate-lib/components/TxButton.js	/^  const unsignedTx = async () => {$/;"	c
+TxGroupButton	src/substrate-lib/components/TxButton.js	/^function TxGroupButton (props) {$/;"	f
+Type	src/Interactor.js	/^    const apiType = getApiType(api, interxType);$/;"	c
+Types	src/substrate-lib/SubstrateContext.js	/^SubstrateContextProvider.propTypes = {$/;"	c
+Types	src/substrate-lib/components/TxButton.js	/^TxButton.propTypes = {$/;"	c
+UncheckedSudo	src/substrate-lib/components/TxButton.js	/^  const isUncheckedSudo = () => type === 'UNCHECKED-SUDO-TX';$/;"	c
+Unsigned	src/substrate-lib/components/TxButton.js	/^  const isUnsigned = () => type === 'UNSIGNED-TX';$/;"	c
+apiContract	src/utils/apiContract.js	/^export function apiContract(api) {$/;"	f
+attrs	src/Interactor.js	/^  const { attrs: { interxType } } = props;$/;"	o
+catch	src/Metadata.js	/^      } catch (e) {$/;"	f
+catch	src/NodeInfo.js	/^      } catch (e) {$/;"	f
+catch	src/substrate-lib/SubstrateContext.js	/^    } catch (e) {$/;"	f
+function	src/substrate-lib/components/TxButton.js	/^    (async function () {$/;"	f
+if	src/App.js	/^  if (keyringState !== 'READY') {$/;"	f
+if	src/Interactor.js	/^      if (jsonrpc[palletRpc] && jsonrpc[palletRpc][callable]) {$/;"	f
+if	src/Interactor.js	/^      if (metaArgs && metaArgs.length > 0) {$/;"	f
+if	src/Interactor.js	/^      if (metaParam.length > 0) {$/;"	f
+if	src/Interactor.js	/^      if (metaType.isPlain) {$/;"	f
+if	src/Interactor.js	/^      if (typeof state === 'object') {$/;"	f
+if	src/Interactor.js	/^      } else if (metaType.isDoubleMap) {$/;"	f
+if	src/Interactor.js	/^      } else if (metaType.isMap) {$/;"	f
+if	src/Interactor.js	/^      } else if (state === 'callable') {$/;"	f
+if	src/Interactor.js	/^      } else if (state === 'palletRpc') {$/;"	f
+if	src/Interactor.js	/^    if (!api || palletRpc === '' || callable === '') {$/;"	f
+if	src/Interactor.js	/^    if (!api || palletRpc === '') { return; }$/;"	f
+if	src/Interactor.js	/^    if (!api) { return; }$/;"	f
+if	src/Interactor.js	/^    if (interxType === 'QUERY') {$/;"	f
+if	src/Interactor.js	/^    } else if (interxType === 'CONSTANT') {$/;"	f
+if	src/Interactor.js	/^    } else if (interxType === 'EXTRINSIC') {$/;"	f
+if	src/Interactor.js	/^    } else if (interxType === 'RPC') {$/;"	f
+if	src/Interactor.js	/^  if (interxType === 'QUERY') {$/;"	f
+if	src/Interactor.js	/^  } else if (interxType === 'EXTRINSIC') {$/;"	f
+if	src/Interactor.js	/^  } else if (interxType === 'RPC' || interxType === 'CONSTANT') {$/;"	f
+if	src/TemplateModule.js	/^      if (newValue.isNone) {$/;"	f
+if	src/substrate-lib/components/DeveloperConsole.js	/^  if (apiState === 'READY') { window.api = api; }$/;"	f
+if	src/substrate-lib/components/DeveloperConsole.js	/^  if (keyringState === 'READY') { window.keyring = keyring; }$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^      if (!api || !api.query.sudo) { return; }$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^      if (param == null) { return false; }$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^      if (paramField.optional) { return true; }$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^      if (typeof inputParam === 'object' && inputParam !== null && typeof inputParam.value === 'string') {$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^      } else if (typeof inputParam === 'string') {$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^    if (!sudoKey || !acctPair) { return false; }$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^    if (isInjected) {$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^    if (paramFields.length === 0) { return true; }$/;"	f
+if	src/substrate-lib/components/TxButton.js	/^    if (unsub) {$/;"	f
+jsonrpc	src/substrate-lib/SubstrateContext.js	/^  jsonrpc: { ...jsonrpc, ...config.RPC },$/;"	o
+meta	src/substrate-lib/SubstrateContext.js	/^        ({ address, meta: { ...meta, name: `${meta.name} (${meta.source})` } }));$/;"	o
+meta	src/substrate-lib/components/TxButton.js	/^      meta: { source, isInjected }$/;"	o
+paramConversion	src/substrate-lib/utils.js	/^  paramConversion: {$/;"	o
+paramField	src/Interactor.js	/^        const { ind, paramField: { type } } = state;$/;"	o
+propTypes	src/substrate-lib/SubstrateContext.js	/^SubstrateContextProvider.propTypes = {$/;"	o
+propTypes	src/substrate-lib/components/TxButton.js	/^TxButton.propTypes = {$/;"	o
+switch	src/substrate-lib/SubstrateContext.js	/^  switch (action.type) {$/;"	f
