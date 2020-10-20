@@ -1,0 +1,9 @@
+[submodule "substrate-node-template"]
+	path = substrate-node-template
+	url = https://github.com/alekscp/substrate-node-template
+[submodule "ink"]
+	path = ink
+	url = https://github.com/alekscp/ink
+[submodule "substrate-front-end-template"]
+	path = substrate-front-end-template
+	url = https://github.com/alekscp/substrate-front-end-template

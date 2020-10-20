@@ -1,9 +1,0 @@
-/Users/aclapinpepin/code/ink/examples/erc20/target/debug/deps/libparity_scale_codec_derive-9304204854b384e3.dylib: /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/lib.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/decode.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/encode.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/utils.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs
-
-/Users/aclapinpepin/code/ink/examples/erc20/target/debug/deps/parity_scale_codec_derive-9304204854b384e3.d: /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/lib.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/decode.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/encode.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/utils.rs /Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs
-
-/Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/lib.rs:
-/Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/decode.rs:
-/Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/encode.rs:
-/Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/utils.rs:
-/Users/aclapinpepin/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-scale-codec-derive-1.2.2/src/trait_bounds.rs:
