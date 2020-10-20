@@ -1,1 +1,0 @@
-{"rustc":10057567799899506843,"features":"[\"std\"]","target":849421505779712062,"profile":18074012566298724745,"path":15298010986899775696,"deps":[[2330583982131338277,"wee_alloc",false,123437718343767574]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/ink_allocator-df04b65b722d24d7/dep-lib-ink_allocator"}}],"rustflags":[],"metadata":16962131919999192766,"config":0}

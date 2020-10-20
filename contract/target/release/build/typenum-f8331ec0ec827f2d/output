@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/aclapinpepin/code/ink/examples/erc20/target/release/build/typenum-f8331ec0ec827f2d/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/aclapinpepin/code/ink/examples/erc20/target/release/build/typenum-f8331ec0ec827f2d/out/op.rs
